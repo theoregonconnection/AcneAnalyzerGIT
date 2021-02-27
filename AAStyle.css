@@ -15,12 +15,12 @@ h1 {
   width: 200px;
 }
 
-.container_grid {
+.grid {
   display: grid;
   background-color: purple;
 }
 
-.container_grid > div {
+.grid > div {
   background-color: white;
   font-size: 20px;
   margin: 10px;
