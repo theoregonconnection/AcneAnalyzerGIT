@@ -2,3 +2,19 @@ h1 {
   color: blue;
   text-align: center;
 }
+
+.container_flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container_flex > div {
+  background-color: blue;
+  margin: 20px;
+  padding: 20px;
+  width: 200px;
+}
+
+.container_grid {
+
+}
