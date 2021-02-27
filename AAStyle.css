@@ -16,7 +16,8 @@ h1 {
 }
 
 .container_grid {
-  background-color: yellow;
+  display: grid;
+  background-color: purple;
 }
 
 .container_grid > div {
