@@ -16,12 +16,7 @@ h1 {
 }
 
 .container_grid {
-  background-color: green;
-  display: grid;
-  padding: 20px;
-  grid-column-gap: 10px;
-  grid-row-gap: 10px;
-  grid-template-columns: 200px 200px auto;
+  background-color: yellow;
 }
 
 .container_grid > div {
